@@ -17,9 +17,5 @@
   <a href="https://github.com/outeiromarcellus">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=outeiromarcellus&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
       <a href="https://picasion.com/"><img <img align="right" src="https://i.picasion.com/pic91/dbc721fdb576e58df869ebefc5291724.gif" width="200" height="200" border="0" alt="https://picasion.com/" /></a>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=outeiromarcellus&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
-</div>
-  
 
- 
   ##
