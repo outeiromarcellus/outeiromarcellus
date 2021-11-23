@@ -1,7 +1,7 @@
 ### Olá Marcellus aqui 👋👨‍💻 !!!
 ##
 - 🔭 Hoje eu trabalho com Front-End
-- 🌱 Estudando JavaScript - Jquery 👨‍💻
+- 🌱 Estudando JavaScript - React 👨‍💻
 - 😄 Pronouns: Ele/Dele
 - ⚡ Fun fact: League of Legends!
   <div style="display: inline_block"><br>
